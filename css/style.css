@@ -42,7 +42,65 @@ body {
 .section {
     color: grey;
     font-size: 12px;
-    padding: 5px;
+    padding: 7px;
     border-radius: 4px;
     border-color:grey;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.reminder-list {
+    background-color: white;
+    margin-top: 5px;
+}
+.task-list {
+    padding: 50px 50px 10px 50px;
+}
+
+.editorial {
+    background-color: rgb(25, 159, 255);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 7px;
+}
+strong {
+    font-size: 20px;
+}
+
+/* seconda lista */
+
+.today-list {
+    padding: 10px 50px 10px 50px;
+}
+
+li {
+    margin: 15px;
+}
+
+.q1-goals {
+    background-color: rgb(194, 53, 255);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.recruiting {
+    background-color: rgb(132, 164, 73);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.mobile {
+    background-color: rgb(201, 108, 8);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 7px;
 }

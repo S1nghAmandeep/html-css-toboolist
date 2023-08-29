@@ -27,7 +27,7 @@ body {
 .border-section {
     padding: 20px;
     background-color: white;
-    margin: 50px;
+    margin: 50px 0px 5px 0px ;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -57,7 +57,7 @@ ul {
     margin-top: 5px;
 }
 .task-list {
-    padding: 50px 50px 10px 50px;
+    padding: 25px 50px 10px 50px;
 }
 
 .editorial {
@@ -103,4 +103,23 @@ li {
     font-size: 12px;
     padding: 7px;
     border-radius: 7px;
+}
+
+/* terza lista */
+
+.website {
+    background-color: rgb(201, 8, 162);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.sales{
+    background-color: rgb(185, 201, 8);
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 7px;
+}
 }

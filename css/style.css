@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(239, 239, 239);
+}
+/* Intestazione */
+
+.logo {
+    padding: 10px;
+    font-size: 50px;
+    color: blue;
+    vertical-align: text-bottom;
+    background-color: white;
+}
